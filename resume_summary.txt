@@ -1,0 +1,1 @@
+Expense Tracker — Frontend app to add, view, and filter expenses. Includes SQL schema for server-side storage. Built with HTML, CSS, JavaScript.
